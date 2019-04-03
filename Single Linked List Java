@@ -1,7 +1,3 @@
-/**
- *
- * @author Wim Sonevel
- */
 public class Node {
     
     int data;
@@ -15,10 +11,6 @@ public class Node {
         System.out.print("{"+data+"}");
     }
 }
-/**
- *
- * @author Wim Sonevel
- */
 public class LinkedList {
 
     Node first ;
@@ -98,10 +90,6 @@ public class LinkedList {
         }
     }
 }
-/**
- *
- * @author Wim Sonevel
- */
 public class LinkedListApp {
     public static void main(String[] args) {
 
